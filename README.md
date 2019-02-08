@@ -158,3 +158,9 @@ If you do not want to generate the master dataset yourself and would like to jum
 ## Code
 
 Code associated with this project carries the following license: [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# 6 Citation
+
+You can refer to the first release of this repository as:
+
+Philippe Joly. (2019, February 8). Transition Spillovers? The Protest Behaviour of the 1989 Generation in Europe. Documentation and materials. First release (Version v1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2560280.svg)](https://doi.org/10.5281/zenodo.2560280)
