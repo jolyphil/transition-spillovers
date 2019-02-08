@@ -14,6 +14,7 @@
   - Steps 1 to 6
 5. [License](#License)
   - Code
+6. [Citation](#Citation)
 
 ---
 
@@ -159,7 +160,7 @@ If you do not want to generate the master dataset yourself and would like to jum
 
 Code associated with this project carries the following license: [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# 6 Citation
+# 6 Citation <a name="Citation"></a>
 
 You can refer to the first release of this repository as:
 
