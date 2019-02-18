@@ -73,6 +73,7 @@ foreach dv of varlist demonstration petition boycott {
 	
 	* _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 	* Export RTF Table
+	
 	local i = `i' + 3 // Last model
 	local tabnum = `i' / 3 + 1 // Table number
 	local filename "tab`tabnum'_MLM_`dv'.rtf"
@@ -111,7 +112,7 @@ gen ypos = -0.0175 // Vertical position of the bars
 
 foreach dv of varlist demonstration petition boycott {
 * _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-* Restore intermediary models 2, 5, and 8
+* Restore final models 3, 6, and 9
 est restore M_c_`dv'
 
 * _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
